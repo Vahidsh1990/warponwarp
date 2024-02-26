@@ -52,7 +52,7 @@
       "type": "wireguard",
       "tag": "IP->Iran, Yotube:MisaHiro",
       "local_address": [
-        "172.16.0.2/32",
+        "162.159.193.167:1010",
         "2606:4700:110:8c91:4063:21d0:7dd5:f218/128"
       ],
       "private_key": "CBVIIWvXdLr4PbSrnm11ZJJ300IiPudRD4R62/IxV1g=",
